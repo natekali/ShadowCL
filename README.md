@@ -1,15 +1,15 @@
 ![logo_shadowCL copie](https://github.com/natekali/ShadowCL/assets/117448792/1019b073-1b62-43fe-82d0-0d35d30ffbdd)
-# ShadowCL
+# ShadowCL 🧞
 ShadowCL is the ultimate automated tool for crafting mail:password combolists effortlessly
 
-## Features
+## 🔥 Features
 * **Automated Combolist Generation**
 * **Country-based Filtering & Worldwide/Mix**
 * **Automated Notification and Cloud Upload**
 * **Exclusion of Outlier Data from Wordlists**
 * **Comprehensive Logging Functionality**
 
-## Prerequisites
+## ℹ️ Prerequisites
 Before running ShadowCL, make sure you install these following libraries :
 * tqdm
 * requests
@@ -17,7 +17,7 @@ Before running ShadowCL, make sure you install these following libraries :
 You can install them by typing this following command in your terminal :  
 `pip3 install -r requirements.txt`
 
-## Installation
+## ✅ Installation
 
 Clone this repository to your local machine.
 
@@ -33,10 +33,10 @@ Now, you can make your own configuration to generate your Combolist !
 
 Upon completion of the script, a well-formatted Discord message will be delivered to you.
 
-## Usage
+## 🧠 Usage
 **ShadowCL** can be used to create **authentic-looking** fake **combolists**, this tool is fully **automatic**, allowing you to run **multiple instances** simultaneously. The possibilities are **limitless**, you can **easily** generate combolists of **varying lengths** from **differents countries**, including **France**, **United-Kingdom**, **Poland**, **Russia**, **China**, and **USA**.
 
-## Usage demo
+## 😈 Usage demo
 **Default usage :** `python3 shadowCL.py`
 
 <img width="615" alt="help" src="https://github.com/natekali/ShadowCL/assets/117448792/6d7ce046-62ad-4e6a-89ad-59e4aa06a103">
@@ -67,6 +67,6 @@ Upon completion of the script, a well-formatted Discord message will be delivere
 
 <img width="702" alt="Capture d’écran 2024-02-05 à 19 58 48" src="https://github.com/natekali/ShadowCL/assets/117448792/1ab19c24-3c60-44fe-88ff-b18dead62015">
 
-## Author
+## 👨‍💻 Author
 * [@natekali](https://github.com/natekali)
 
