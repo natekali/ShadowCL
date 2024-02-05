@@ -32,7 +32,7 @@ Use the `-h` output to understand the necessary args.
 Now, you can make your own configuration to generate your Combolist !
 
 ## Usage
-**ShadowCL** can be used to **generate** create **authentic-looking** fake **combolists**, this tool is fully **automatic**, allowing you to run **multiple instances** simultaneously. The possibilities are **limitless**, you can **easily** generate combolists of **varying lengths** from **differents countries**, including **France**, **United-Kingdom**, **Poland**, **Russia**, **China**, and **USA**.
+**ShadowCL** can be used to create **authentic-looking** fake **combolists**, this tool is fully **automatic**, allowing you to run **multiple instances** simultaneously. The possibilities are **limitless**, you can **easily** generate combolists of **varying lengths** from **differents countries**, including **France**, **United-Kingdom**, **Poland**, **Russia**, **China**, and **USA**.
 
 ## Usage demo
 Default usage : `python3 shadowCL.py`
