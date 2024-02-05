@@ -40,15 +40,15 @@ Upon completion of the script, a well-formatted Discord message will be delivere
 Default usage : `python3 shadowCL.py`
 
 <img width="615" alt="help" src="https://github.com/natekali/ShadowCL/assets/117448792/6d7ce046-62ad-4e6a-89ad-59e4aa06a103">
-|
-|
-|
+
+<br>
+
 Generate a small combolist (100 entries) : `python3 shadowCL.py -l 100 -c mix -o demo.txt`
 
 ![demo](https://github.com/natekali/ShadowCL/assets/117448792/1446fd84-2ff8-41f5-a73b-e518daa8babf)
-|
-|
-|
+
+<br>
+
 Multi-instances 100K combolists generation :
 - `python3 shadowCL.py -1 100000 -o 100K_UHQ_COMBOLIST.txt`
 - `python3 shadowCL.py -1 100000 -o 100K_UHQ_FR_COMBOLIST.txt -c fr`
@@ -56,9 +56,9 @@ Multi-instances 100K combolists generation :
 - `python3 shadowCL.py -1 100000 -o 100K_UHQ_PL_COMBOLIST.txt -c pl`
 
 ![image](https://github.com/natekali/ShadowCL/assets/117448792/408fa61c-8f89-45d2-b506-38228aee37ef)
-|
-|
-|
+
+<br>
+
 Discord webhook message example : 
 
 <img width="702" alt="Capture d’écran 2024-02-05 à 19 58 48" src="https://github.com/natekali/ShadowCL/assets/117448792/1ab19c24-3c60-44fe-88ff-b18dead62015">
