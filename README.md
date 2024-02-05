@@ -43,7 +43,8 @@ Default usage : `python3 shadowCL.py`
 
 <br>
 ⠀
-- 
+
+⠀
 <br>
 
 Generate a small combolist (100 entries) : `python3 shadowCL.py -l 100 -c mix -o demo.txt`
