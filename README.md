@@ -23,34 +23,37 @@ Clone this repository to your local machine.
 
 Open your terminal and navigate to the cloned repository.
 
-Run the script by typing `python3 hydraxss.py` in your terminal.
+Edit the `config/config.py` file with your [discord webhook url](https://support.discord.com/hc/en-us/articles/228383668-Intro-to-Webhooks) and your [discord user id](https://www.businessinsider.com/guides/tech/discord-id?r=US&IR=T#:~:text=To%20find%20a%20user's%20Discord,sidebar%20and%20select%20Copy%20ID.).
 
-Enter the url of the target website when prompted.
+Run the script by typing `python3 shadowCL.py` in your terminal.
+
+Use the `-h` output to understand the necessary args.
+
+Now, you can make your own configuration to generate your Combolist !
 
 ## Usage
-**HydraXSS** can be used to **inspect** and **test** the **vulnerability** of a **website**, this tool is fully **automatic** and can be **run in the background**, at this point you can do your other tasks and come back later to see the **scanner results**.
+**ShadowCL** can be used to **generate** create **authentic-looking** fake **combolists**, this tool is fully **automatic**, allowing you to run **multiple instances** simultaneously. The possibilities are **limitless**, you can **easily** generate combolists of **varying lengths** from **differents countries**, including **France**, **United-Kingdom**, **Poland**, **Russia**, **China**, and **USA**.
 
 ## Usage demo
-Execution on one page
+Default usage : `python3 shadowCL.py`
 
-https://user-images.githubusercontent.com/117448792/232473650-43d9d326-661a-4c07-8217-a2fa96108b03.mp4
-
-<br/>
-
-Execution on other pages
-
-https://user-images.githubusercontent.com/117448792/232473827-f70ec61e-a2be-46db-a024-992cda038096.mp4
-
-## HydraXSS in picture
-Functionality
-
-<img width="883" alt="hydraxss" src="https://user-images.githubusercontent.com/117448792/232477294-4f416be7-a259-4642-a155-26ded660f8d4.png">
+<img width="615" alt="help" src="https://github.com/natekali/ShadowCL/assets/117448792/6655679b-3703-430f-b060-cb565db65e4c">
 
 <br/>
 
-Output 
+Generate a small combolist (100 entries) : `python3 shadowCL.py -l 100 -c mix -o demo.txt`
 
-<img width="727" alt="output_hydraxss" src="https://user-images.githubusercontent.com/117448792/232477325-33d536bd-0eb5-4e0b-b3f5-fd8bd8b4d0b0.png">
+![demo](https://github.com/natekali/ShadowCL/assets/117448792/1446fd84-2ff8-41f5-a73b-e518daa8babf)
+
+<br/>
+
+Multi-instances 100K combolists generation : 
+`python3 shadowCL.py -1 100000 -o 100K_UHQ_COMBOLIST.txt`
+`python3 shadowCL.py -1 100000 -o 100K_UHQ_FR_COMBOLIST.txt -c fr`
+`python3 shadowCL.py -1 100000 -o 100K_UHQ_UK_COMBOLIST.txt -c uk`
+`python3 shadowCL.py -1 100000 -o 100K_UHQ_PL_COMBOLIST.txt -c pl`
+
+![image](https://github.com/natekali/ShadowCL/assets/117448792/408fa61c-8f89-45d2-b506-38228aee37ef)
 
 ## Author
 * [@natekali](https://github.com/natekali)
