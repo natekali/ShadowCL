@@ -41,13 +41,13 @@ Default usage : `python3 shadowCL.py`
 
 <img width="615" alt="help" src="https://github.com/natekali/ShadowCL/assets/117448792/6655679b-3703-430f-b060-cb565db65e4c">
 
-<br/>
+<br>
 
 Generate a small combolist (100 entries) : `python3 shadowCL.py -l 100 -c mix -o demo.txt`
 
 ![demo](https://github.com/natekali/ShadowCL/assets/117448792/1446fd84-2ff8-41f5-a73b-e518daa8babf)
 
-<br/>
+<br>
 
 Multi-instances 100K combolists generation : 
 `python3 shadowCL.py -1 100000 -o 100K_UHQ_COMBOLIST.txt`
@@ -57,7 +57,7 @@ Multi-instances 100K combolists generation :
 
 ![image](https://github.com/natekali/ShadowCL/assets/117448792/408fa61c-8f89-45d2-b506-38228aee37ef)
 
-<br/>
+<br>
 
 Discord webhook message example : 
 
