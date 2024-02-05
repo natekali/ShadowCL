@@ -42,6 +42,8 @@ Default usage : `python3 shadowCL.py`
 <img width="615" alt="help" src="https://github.com/natekali/ShadowCL/assets/117448792/6d7ce046-62ad-4e6a-89ad-59e4aa06a103">
 
 <br>
+-
+<br>
 
 Generate a small combolist (100 entries) : `python3 shadowCL.py -l 100 -c mix -o demo.txt`
 
