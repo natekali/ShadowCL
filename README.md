@@ -37,15 +37,15 @@ Upon completion of the script, a well-formatted Discord message will be delivere
 **ShadowCL** can be used to create **authentic-looking** fake **combolists**, this tool is fully **automatic**, allowing you to run **multiple instances** simultaneously. The possibilities are **limitless**, you can **easily** generate combolists of **varying lengths** from **differents countries**, including **France**, **United-Kingdom**, **Poland**, **Russia**, **China**, and **USA**.
 
 ## Usage demo
-Generate a small combolist (100 entries) : `python3 shadowCL.py -l 100 -c mix -o demo.txt`
+Default usage : `python3 shadowCL.py`
 
-![demo](https://github.com/natekali/ShadowCL/assets/117448792/1446fd84-2ff8-41f5-a73b-e518daa8babf)
+<img width="615" alt="help" src="https://github.com/natekali/ShadowCL/assets/117448792/6d7ce046-62ad-4e6a-89ad-59e4aa06a103">
 
 <br>
 
-Default usage : `python3 shadowCL.py`
+Generate a small combolist (100 entries) : `python3 shadowCL.py -l 100 -c mix -o demo.txt`
 
-<img width="615" alt="help" src="https://github.com/natekali/ShadowCL/assets/117448792/6655679b-3703-430f-b060-cb565db65e4c">
+![demo](https://github.com/natekali/ShadowCL/assets/117448792/1446fd84-2ff8-41f5-a73b-e518daa8babf)
 
 <br>
 
